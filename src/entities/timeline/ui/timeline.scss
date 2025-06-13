@@ -1,0 +1,14 @@
+.event_slide {
+    &__title {
+        color: var(--primary-color);
+        font-family: "Bebas Neue", sans-serif;
+        margin-top: 0;
+        font-size: 1.6rem;
+    } 
+    &__desc {
+        margin-top: 0;
+        font-size: 1.2rem;
+    }
+}
+
+

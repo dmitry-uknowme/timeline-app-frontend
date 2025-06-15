@@ -20,6 +20,10 @@ body {
     background: #F4F5F9;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 .app {
     display: flex;
     // flex-direction: column;
